@@ -1,0 +1,89 @@
+{
+    "sun": {
+        "name": "Sun",
+        "mass": 1.989e30,
+        "radius": 696340000,
+        "color": "#FDB813",
+        "type": "star"
+    },
+    "mercury": {
+        "name": "Mercury",
+        "mass": 3.301e23,
+        "radius": 2439700,
+        "semi_major_axis": 57909050000,
+        "eccentricity": 0.2056,
+        "orbital_period": 87.97,
+        "color": "#8C7853",
+        "type": "planet"
+    },
+    "venus": {
+        "name": "Venus",
+        "mass": 4.867e24,
+        "radius": 6051800,
+        "semi_major_axis": 108208000000,
+        "eccentricity": 0.0067,
+        "orbital_period": 224.70,
+        "color": "#FFC649",
+        "type": "planet"
+    },
+    "earth": {
+        "name": "Earth",
+        "mass": 5.972e24,
+        "radius": 6371000,
+        "semi_major_axis": 149597870700,
+        "eccentricity": 0.0167,
+        "orbital_period": 365.25,
+        "color": "#6B93D6",
+        "type": "planet"
+    },
+    "mars": {
+        "name": "Mars",
+        "mass": 6.417e23,
+        "radius": 3389500,
+        "semi_major_axis": 227943820000,
+        "eccentricity": 0.0935,
+        "orbital_period": 686.98,
+        "color": "#CD5C5C",
+        "type": "planet"
+    },
+    "jupiter": {
+        "name": "Jupiter",
+        "mass": 1.898e27,
+        "radius": 69911000,
+        "semi_major_axis": 778340821000,
+        "eccentricity": 0.0489,
+        "orbital_period": 4332.82,
+        "color": "#C19A6B",
+        "type": "planet"
+    },
+    "saturn": {
+        "name": "Saturn",
+        "mass": 5.683e26,
+        "radius": 58232000,
+        "semi_major_axis": 1426666422000,
+        "eccentricity": 0.0565,
+        "orbital_period": 10755.70,
+        "color": "#EDD59E",
+        "type": "planet"
+    },
+    "uranus": {
+        "name": "Uranus",
+        "mass": 8.681e25,
+        "radius": 25362000,
+        "semi_major_axis": 2870658186000,
+        "eccentricity": 0.0457,
+        "orbital_period": 30687.15,
+        "color": "#4FD0E7",
+        "type": "planet"
+    },
+    "neptune": {
+        "name": "Neptune",
+        "mass": 1.024e26,
+        "radius": 24622000,
+        "semi_major_axis": 4498396441000,
+        "eccentricity": 0.0113,
+        "orbital_period": 60190.03,
+        "color": "#4B70DD",
+        "type": "planet"
+    }
+}
